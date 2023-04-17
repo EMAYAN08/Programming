@@ -1,5 +1,6 @@
 # Programming
-Solving a programming problem everyday
+Tiny habits, remarkable results! 
+Solving one programming problem everyday
 ## Problem 1
 
 - Implement a URL shortener with the following methods:
