@@ -62,7 +62,7 @@ For example, given s = "abcba" and k = 2, the longest substring with k distinct 
 
 - Suppose we represent our file system by a string in the following manner:
 The string "dir\n\tsubdir1\n\tsubdir2\n\t\tfile.ext" represents
-```bash
+
 dir
     subdir1
     subdir2
