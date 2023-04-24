@@ -136,7 +136,8 @@ Return the node with value 8.
 ```
 - Given the set of words 'bed', 'bath', 'bedbath', 'and', 'beyond', and the string "bedbathandbeyond", return either 
 ```
-['bed', 'bath', 'and', 'beyond]```
+['bed', 'bath', 'and', 'beyond]
+```
  or 
  ```
  ['bedbath', 'and', 'beyond']
