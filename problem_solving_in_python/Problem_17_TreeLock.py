@@ -12,13 +12,6 @@ You may assume the class is used in a single-threaded program, so there is no ne
 Each method should run in O(h), where h is the height of the tree.
 
 """
-
-
-
-
-
-
-
 class TreeNode:
     def __init__(self, val, left=None, right=None, parent=None):
         self.val = val
