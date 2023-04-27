@@ -171,6 +171,15 @@ lock, which attempts to lock the node. If it cannot be locked, then it should re
 - unlock, which unlocks the node. If it cannot be unlocked, then it should return false. Otherwise, it should unlock it and return true.
 - You may augment the node to add parent pointers or any other property you would like. You may assume the class is used in a single-threaded program, so there is no need for actual locks or mutexes. Each method should run in O(h), where h is the height of the tree.
 
+## Problem 18
+
+- Implement regular expression matching with the following special characters:
+- . (period) which matches any single character
+- asterisk * which matches zero or more of the preceding element
+That is, implement a function that takes in a string and a valid regular expression and returns whether or not the string matches the regular expression.
+- For example, given the regular expression "ra." and the string "ray", your function should return true. The same regular expression on the string "raymond" should return false.
+- Given the regular expression ".*at" and the string "chat", your function should return true. The same regular expression on the string "chats" should return false.
+
 
 
 
