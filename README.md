@@ -207,7 +207,7 @@ you should return false.
 
 ## PROBLEM 22
 
-- You are given an array of non-negative integers that represents a two-dimensional elevation map where each element is unit-width wall and the integer is the height. Suppose it will rain and all spots between two walls get filled up.
+- You are given an array of non-negative integers that represents a two-dimensional elevation map wnbhere each element is unit-width wall and the integer is the height. Suppose it will rain and all spots between two walls get filled up.
 - Compute how many units of water remain trapped on the map in O(N) time and O(1) space.
 - For example, given the input [2, 1, 2], we can hold 1 unit of water in the middle.
 - Given the input [3, 0, 1, 3, 0, 5], we can hold 3 units in the first index, 2 in the second, and 3 in the fourth index (we cannot hold 5 since it would run off to the left), so we can trap 8 units of water.
@@ -217,6 +217,13 @@ you should return false.
 - The edit distance between two strings refers to the minimum number of character insertions, deletions, and substitutions required to change one string to the other. 
 - For example, the edit distance between “kitten” and “sitting” is three: substitute the “k” for “s”, substitute the “e” for “i”, and append a “g”.
 - Given two strings, compute the edit distance between them.
+
+## Problem 24
+
+- Suppose you are given a table of currency exchange rates, represented as a 2D array. 
+- Determine whether there is a possible arbitrage: that is, whether there is some sequence of trades you can make, starting with some amount A of any currency, so that you can end up with some amount greater than A of that currency.
+- There are no transaction costs and you can trade fractional quantities.
+
 
 
 
