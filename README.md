@@ -256,6 +256,10 @@ As another example, given the string "google", you should return "elgoogle".
 ```['G', 'B', 'R', 'R', 'B', 'R', 'G']``` 
 it should become ```['R', 'R', 'R', 'G', 'G', 'B', 'B']```
 
+## Problem 28
+
+- Given the root to a binary search tree, find the second largest node in the tree. 
+
 
 
 
